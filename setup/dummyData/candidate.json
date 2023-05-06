@@ -1,0 +1,34 @@
+{
+    "data":[
+        {
+            "name":"Sylvia Pogoy",
+            "position":"HR Staff",
+            "photo": "https://pbs.twimg.com/media/Fp9uQP3aMAIm6EI?format=jpg&name=large"
+        },
+        {
+            "name":"Elsa Dongon",
+            "position":"COO",
+            "photo": "https://pbs.twimg.com/media/Fp9uQP3aMAIm6EI?format=jpg&name=large"
+        },
+        {
+            "name":"Jovie Baliguat",
+            "position":"HR Staff",
+            "photo": "https://pbs.twimg.com/media/Fp9uQP3aMAIm6EI?format=jpg&name=large"
+        },
+        {
+            "name":"Dave Mario Lagura",
+            "position":"IT Manager",
+            "photo": "https://pbs.twimg.com/media/Fp9uQP3aMAIm6EI?format=jpg&name=large"
+        },
+        {
+            "name":"Allan Lisondra Jr",
+            "position":"IT Specialist",
+            "photo": "https://pbs.twimg.com/media/Fp9uQP3aMAIm6EI?format=jpg&name=large"
+        },
+        {
+            "name":"Nelson Maravillas",
+            "position":"General Manager",
+            "photo": "https://pbs.twimg.com/media/Fp9uQP3aMAIm6EI?format=jpg&name=large"
+        }
+    ]
+}
