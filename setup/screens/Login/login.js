@@ -29,7 +29,7 @@ const Login = () =>{
                 </KeyboardAvoidingView>
             </View>
             <View style={{position:"absolute",right:15,bottom:15}}>
-                <Text style={{fontSize:15,fontWeight:'400'}}>Developed by: Glenson Rosos</Text>
+                <Text style={{fontSize:15,fontWeight:'400'}}>Developed by: Glenson Rosos Gwapo</Text>
             </View>         
         </View>
     )
