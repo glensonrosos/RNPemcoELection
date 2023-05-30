@@ -1,31 +1,37 @@
 {
     "data":[
         {
+            "id":"1",
             "name":"Sylvia Pogoy",
             "position":"HR Staff",
             "photo": "https://pbs.twimg.com/media/Fp9uQP3aMAIm6EI?format=jpg&name=large"
         },
         {
+            "id":"2",
             "name":"Elsa Dongon",
             "position":"COO",
             "photo": "https://pbs.twimg.com/media/Fp9uQP3aMAIm6EI?format=jpg&name=large"
         },
         {
+            "id":"3",
             "name":"Jovie Baliguat",
             "position":"HR Staff",
             "photo": "https://pbs.twimg.com/media/Fp9uQP3aMAIm6EI?format=jpg&name=large"
         },
         {
+            "id":"4",
             "name":"Dave Mario Lagura",
             "position":"IT Manager",
             "photo": "https://pbs.twimg.com/media/Fp9uQP3aMAIm6EI?format=jpg&name=large"
         },
         {
+            "id":"5",
             "name":"Allan Lisondra Jr",
             "position":"IT Specialist",
             "photo": "https://pbs.twimg.com/media/Fp9uQP3aMAIm6EI?format=jpg&name=large"
         },
         {
+            "id":"6",
             "name":"Nelson Maravillas",
             "position":"General Manager",
             "photo": "https://pbs.twimg.com/media/Fp9uQP3aMAIm6EI?format=jpg&name=large"
